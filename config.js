@@ -62,7 +62,7 @@ window.CONFIG = {
   pix: {
     ativo: true,
     chave: "98985339331",
-    posicao: {"left":29.068370607028754,"top":71.8250896805022,"width":42.894562450079874,"height":4.632691840858734}
+    posicao: {"left":17.00446972344249,"top":60.08748149827961,"width":64.97763578274761,"height":7.164338243976795}
   },
 
   // ----- TEXTOS DOS BOTÕES -----------------------------------------------
@@ -89,9 +89,7 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:false, posicao: {"left":24.2,"top":83.6,"width":48.25240552615814,"height":5.61357710872642} },
-    dresscode: { mostrarTexto:false, posicao: {"left":30.281469648562297,"top":84.58400621694679,"width":39.22046600439297,"height":5.0793992128466705} },
-    manual: { mostrarTexto:false, posicao: {"left":29.66802927815495,"top":84.3538491611661,"width":41.060693515375405,"height":5.309555171188598} }
+    presentes: { mostrarTexto:false, posicao: {"left":23.177635782747604,"top":70.48147143186875,"width":53.364226612420126,"height":5.268349207126819} },
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
@@ -100,11 +98,9 @@ window.CONFIG = {
   //   left/top: canto superior esquerdo do botão
   //   width/height: tamanho do botão
     hotspots: {
-        confirm: { left:23.813912676518303, top:62.767526587169115, width:12.89594304816294, height:7.421642932577662 },
-        map: { left:43.55821042428059, top:63.11272794326478, width:13.158295580151702, height:6.681785706893529 },
-        gift: { left:64.21144792020782, top:62.871764959008175, width:12.615012854432905, height:7.377663130789937 },
-        dress: { left:33.942488892771564, top:73.11343239168711, width:12.615012854432905, height:7.032430839435218 },
-        manual: { left:53.98779014764394, top:72.99835935099067, width:13.22842202476038, height:7.032426449680099 }
+        confirm: { left:15.43052921505664, top:74.62023414861888, width:15.758565976477636, height:10.413585888236657 },
+        map: { left:42.53584620702819, top:74.27497970151535, width:15.203024014656494, height:10.479248726937941 },
+        gift: { left:69.3232690064698, top:74.49432204930991, width:14.659741288937697, height:10.139460005056025 }
   },
 
   // ----- CONTAGEM REGRESSIVA ---------------------------------------------
